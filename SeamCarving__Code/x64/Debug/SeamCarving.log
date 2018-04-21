@@ -1,0 +1,14 @@
+﻿  SeamCarving.cpp
+d:\opencv\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+e:\programming\c++workbench\opencv\seamcarving\seamcarving\seamcarving\seamcarving.cpp(129): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\programming\c++workbench\opencv\seamcarving\seamcarving\seamcarving\seamcarving.cpp(138): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\programming\c++workbench\opencv\seamcarving\seamcarving\seamcarving\seamcarving.cpp(149): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\programming\c++workbench\opencv\seamcarving\seamcarving\seamcarving\seamcarving.cpp(158): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\programming\c++workbench\opencv\seamcarving\seamcarving\seamcarving\seamcarving.cpp(168): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\programming\c++workbench\opencv\seamcarving\seamcarving\seamcarving\seamcarving.cpp(178): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\programming\c++workbench\opencv\seamcarving\seamcarving\seamcarving\seamcarving.cpp(188): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\programming\c++workbench\opencv\seamcarving\seamcarving\seamcarving\seamcarving.cpp(204): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  SeamCarving.vcxproj -> E:\programming\C++workbench\OpenCV\SeamCarving\SeamCarving\x64\Debug\SeamCarving.exe
+  SeamCarving.vcxproj -> E:\programming\C++workbench\OpenCV\SeamCarving\SeamCarving\x64\Debug\SeamCarving.pdb (Full PDB)
