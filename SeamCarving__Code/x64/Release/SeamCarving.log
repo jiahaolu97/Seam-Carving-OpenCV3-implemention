@@ -1,0 +1,19 @@
+﻿  SeamCarving.cpp
+D:\OpenCV\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\OpenCV\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\OpenCV\opencv\build\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+SeamCarving.cpp(129): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+SeamCarving.cpp(138): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+SeamCarving.cpp(149): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+SeamCarving.cpp(158): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+SeamCarving.cpp(168): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+SeamCarving.cpp(178): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+SeamCarving.cpp(188): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+SeamCarving.cpp(204): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  6 of 72 functions ( 8.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SeamCarving.vcxproj -> E:\programming\C++workbench\OpenCV\SeamCarving\SeamCarving\x64\Release\SeamCarving.exe
+  SeamCarving.vcxproj -> E:\programming\C++workbench\OpenCV\SeamCarving\SeamCarving\x64\Release\SeamCarving.pdb (Full PDB)
